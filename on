@@ -1,0 +1,71 @@
+[33mcommit 51525dd4118b2940798e2853f5f78e475f62c60c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Mary Peterson <mary.peterson@ey.com>
+Date:   Tue Apr 12 16:32:20 2022 -0600
+
+    add sign in form
+
+[33mcommit 55d9acfa76eacb1ae53f5d1c55dcf6ef5dd17120[m
+Merge: 9ba59ec daca9ed
+Author: Mary Peterson <mary.peterson@ey.com>
+Date:   Tue Apr 12 15:48:44 2022 -0600
+
+    Solve merge conflict
+
+[33mcommit 9ba59ecb002cf00f4524ddc8987c6efff8706d91[m
+Author: Mary Peterson <mary.peterson@ey.com>
+Date:   Tue Apr 12 12:17:58 2022 -0600
+
+    Add margin
+
+[33mcommit daca9ed7e773d924d65b25fbb08e2c9a5481ecd8[m
+Author: Mary Peterson <mary.peterson@ey.com>
+Date:   Tue Apr 12 11:59:54 2022 -0600
+
+    Add Navbar
+
+[33mcommit 75b2780ba7f0a417b6503b93d9f29f0536c76efb[m
+Author: Mary Peterson <mary.peterson@ey.com>
+Date:   Thu Mar 31 11:51:53 2022 -0600
+
+    Edited the index.html
+
+[33mcommit 21faa9b81765333b6e882278db8a456adb92c89f[m
+Author: marycpeterson <102107260+marycpeterson@users.noreply.github.com>
+Date:   Thu Mar 31 11:39:35 2022 -0600
+
+    Create new styles.css file
+    
+    There is now a styles css file
+
+[33mcommit 94f891f37abb006e4f91d3d76d573cdfee201fb7[m[33m ([m[1;33mtag: beta[m[33m)[m
+Author: marycpeterson <102107260+marycpeterson@users.noreply.github.com>
+Date:   Thu Mar 31 11:29:42 2022 -0600
+
+    Update index.html
+
+[33mcommit c4633f54fbb0a511d66ef857fa1d6e954cf3f8d5[m
+Author: marycpeterson <102107260+marycpeterson@users.noreply.github.com>
+Date:   Thu Mar 31 11:17:04 2022 -0600
+
+    Update index.html
+    
+    Add some code from GitHub
+
+[33mcommit 58d120bdc4d24c59ad6e02aa2b5c24e660d2f3e3[m
+Author: Mary Peterson <mary.peterson@ey.com>
+Date:   Mon Mar 21 17:23:57 2022 -0600
+
+    fix
+
+[33mcommit edf9598b51fd6c604c2b9c0badeb1f2a4e5144a1[m
+Author: Mary Peterson <mary.peterson@ey.com>
+Date:   Mon Mar 21 16:02:04 2022 -0600
+
+    I have  added a header to the index.html file that now contains my
+     name as the author of the file.
+
+[33mcommit 7ada4cc5e74f70ec751b6af645d06cb63da55939[m
+Author: Mary Peterson <Mary.Peterson@ey.com>
+Date:   Mon Mar 21 14:36:44 2022 -0600
+
+    Add index.html
